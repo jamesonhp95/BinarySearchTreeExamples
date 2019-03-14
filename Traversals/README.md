@@ -1,1 +1,1 @@
-# Binary Search Tree - InOrder and PostOrder Traversals
+# Binary Search Tree - Inorder and Postorder Traversals
